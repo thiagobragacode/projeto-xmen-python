@@ -1,4 +1,4 @@
-# 🧬 X-Men — Sistema de Gerenciamento de Mutantes
+# X-Men — Sistema de Gerenciamento de Mutantes
 
 Projeto desenvolvido em Python para praticar lógica de programação, organização de código, manipulação de arquivos JSON, testes automatizados e controle de versão com Git.
 
