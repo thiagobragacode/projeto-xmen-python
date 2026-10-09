@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Wolverine",
+        "poder": "Regeneração",
+        "nível": 9
+    },
+    {
+        "nome": "Ciclope",
+        "poder": "Rajadas ópticas",
+        "nível": 8
+    },
+    {
+        "nome": "Tempestade",
+        "poder": "Controle climático",
+        "nível": 10
+    },
+    {
+        "nome": "Gambit",
+        "poder": "Manipulação cinética",
+        "nível": 9
+    },
+    {
+        "nome": "Noturno",
+        "poder": "Teleporte",
+        "nível": 8
+    },
+    {
+        "nome": "Vampira",
+        "poder": "Voar",
+        "nível": 9
+    }
+]
